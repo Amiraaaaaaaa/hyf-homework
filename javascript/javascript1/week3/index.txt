@@ -1,0 +1,46 @@
+1 - 
+
+
+
+Watching Breaking bad
+ Watch first episode
+VM70:10 No more for today
+VM70:14 Im running! look at me!
+VM70:18 Help help help
+VM70:28 done for today
+
+
+
+const watchFirstEpisode = function() {
+  // draw call stack
+  console.log('Watch first episode');
+};
+
+const watchBreakingBad = function() {
+  console.log('Watching Breaking bad');
+  // draw call stack
+  watchFirstEpisode();
+  console.log('No more for today');
+};
+
+const goForARun = function() {
+  console.log('Im running! look at me!');
+}
+
+const helpStudentsWithHomework = function() {
+  console.log('Help help help');
+}
+
+function finishMondayEvening(functionThatIsParameter) {
+  functionThatIsParameter();
+  // draw call stack
+  goForARun();
+  // draw call stack
+  helpStudentsWithHomework();
+  // draw call stack
+  console.log('done for today')
+}
+
+// draw call stack
+finishMondayEvening(watchBreakingBad);
+// draw call stack
