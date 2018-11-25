@@ -1,4 +1,4 @@
-[
+x = [
   {
     id: 65021716,
     node_id: "MDEwOlJlcG9zaXRvcnk2NTAyMTcxNg==",
@@ -126,11 +126,7 @@
     open_issues: 0,
     watchers: 2,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 66195249,
@@ -259,11 +255,7 @@
     open_issues: 0,
     watchers: 0,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 68593779,
@@ -393,11 +385,7 @@
     open_issues: 0,
     watchers: 0,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 68617514,
@@ -501,14 +489,14 @@
     deployments_url:
       "https://api.github.com/repos/HackYourFuture/HTML-CSS/deployments",
     created_at: "2016-09-19T15:09:45Z",
-    updated_at: "2018-09-29T12:46:10Z",
-    pushed_at: "2018-09-24T14:47:53Z",
+    updated_at: "2018-10-15T14:20:11Z",
+    pushed_at: "2018-10-15T14:20:10Z",
     git_url: "git://github.com/HackYourFuture/HTML-CSS.git",
     ssh_url: "git@github.com:HackYourFuture/HTML-CSS.git",
     clone_url: "https://github.com/HackYourFuture/HTML-CSS.git",
     svn_url: "https://github.com/HackYourFuture/HTML-CSS",
     homepage: null,
-    size: 1464,
+    size: 1469,
     stargazers_count: 26,
     watchers_count: 26,
     language: "HTML",
@@ -520,17 +508,13 @@
     forks_count: 73,
     mirror_url: null,
     archived: false,
-    open_issues_count: 4,
+    open_issues_count: 2,
     license: null,
     forks: 73,
-    open_issues: 4,
+    open_issues: 2,
     watchers: 26,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 68906713,
@@ -659,11 +643,7 @@
     open_issues: 44,
     watchers: 26,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 69110046,
@@ -769,7 +749,7 @@
       "https://api.github.com/repos/HackYourFuture/databases/deployments",
     created_at: "2016-09-24T15:21:14Z",
     updated_at: "2018-04-20T17:02:18Z",
-    pushed_at: "2018-10-14T07:27:15Z",
+    pushed_at: "2018-10-16T18:27:07Z",
     git_url: "git://github.com/HackYourFuture/databases.git",
     ssh_url: "git@github.com:HackYourFuture/databases.git",
     clone_url: "https://github.com/HackYourFuture/databases.git",
@@ -787,17 +767,13 @@
     forks_count: 109,
     mirror_url: null,
     archived: false,
-    open_issues_count: 63,
+    open_issues_count: 64,
     license: null,
     forks: 109,
-    open_issues: 63,
+    open_issues: 64,
     watchers: 8,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 70716559,
@@ -903,14 +879,14 @@
     deployments_url:
       "https://api.github.com/repos/HackYourFuture/JavaScript1/deployments",
     created_at: "2016-10-12T15:59:04Z",
-    updated_at: "2018-09-19T14:40:08Z",
-    pushed_at: "2018-10-01T14:37:41Z",
+    updated_at: "2018-10-15T14:39:16Z",
+    pushed_at: "2018-10-15T14:39:13Z",
     git_url: "git://github.com/HackYourFuture/JavaScript1.git",
     ssh_url: "git@github.com:HackYourFuture/JavaScript1.git",
     clone_url: "https://github.com/HackYourFuture/JavaScript1.git",
     svn_url: "https://github.com/HackYourFuture/JavaScript1",
     homepage: "",
-    size: 11077,
+    size: 11078,
     stargazers_count: 42,
     watchers_count: 42,
     language: "JavaScript",
@@ -919,20 +895,16 @@
     has_downloads: true,
     has_wiki: true,
     has_pages: false,
-    forks_count: 79,
+    forks_count: 81,
     mirror_url: null,
     archived: false,
-    open_issues_count: 2,
+    open_issues_count: 1,
     license: null,
-    forks: 79,
-    open_issues: 2,
+    forks: 81,
+    open_issues: 1,
     watchers: 42,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 73617780,
@@ -1061,11 +1033,7 @@
     open_issues: 0,
     watchers: 0,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 74269845,
@@ -1200,11 +1168,7 @@
     open_issues: 0,
     watchers: 0,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 74854737,
@@ -1329,11 +1293,7 @@
     open_issues: 0,
     watchers: 5,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 75539321,
@@ -1465,11 +1425,7 @@
     open_issues: 1,
     watchers: 8,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 76781601,
@@ -1606,11 +1562,7 @@
     open_issues: 0,
     watchers: 0,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 80990766,
@@ -1751,11 +1703,7 @@
     open_issues: 3,
     watchers: 0,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 81510486,
@@ -1859,7 +1807,7 @@
     deployments_url:
       "https://api.github.com/repos/HackYourFuture/curriculum/deployments",
     created_at: "2017-02-10T00:53:31Z",
-    updated_at: "2018-10-11T00:09:31Z",
+    updated_at: "2018-10-17T13:42:56Z",
     pushed_at: "2018-10-08T15:25:11Z",
     git_url: "git://github.com/HackYourFuture/curriculum.git",
     ssh_url: "git@github.com:HackYourFuture/curriculum.git",
@@ -1867,8 +1815,8 @@
     svn_url: "https://github.com/HackYourFuture/curriculum",
     homepage: "",
     size: 56,
-    stargazers_count: 248,
-    watchers_count: 248,
+    stargazers_count: 249,
+    watchers_count: 249,
     language: null,
     has_issues: false,
     has_projects: true,
@@ -1882,13 +1830,9 @@
     license: null,
     forks: 47,
     open_issues: 0,
-    watchers: 248,
+    watchers: 249,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 81720718,
@@ -2017,11 +1961,7 @@
     open_issues: 0,
     watchers: 0,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 81876061,
@@ -2150,11 +2090,7 @@
     open_issues: 0,
     watchers: 3,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 82380441,
@@ -2283,11 +2219,7 @@
     open_issues: 0,
     watchers: 1,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 82560415,
@@ -2416,11 +2348,7 @@
     open_issues: 1,
     watchers: 13,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 83332366,
@@ -2559,11 +2487,7 @@
     open_issues: 0,
     watchers: 0,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 85620885,
@@ -2698,11 +2622,7 @@
     open_issues: 0,
     watchers: 0,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 86980037,
@@ -2836,11 +2756,7 @@
     open_issues: 0,
     watchers: 0,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 86982460,
@@ -2975,11 +2891,7 @@
     open_issues: 0,
     watchers: 0,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 87658870,
@@ -3114,11 +3026,7 @@
     open_issues: 1,
     watchers: 2,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 89133947,
@@ -3252,11 +3160,7 @@
     open_issues: 8,
     watchers: 5,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 89284229,
@@ -3387,11 +3291,7 @@
     open_issues: 4,
     watchers: 0,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 89284743,
@@ -3526,11 +3426,7 @@
     open_issues: 0,
     watchers: 0,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 89797696,
@@ -3665,11 +3561,7 @@
     open_issues: 0,
     watchers: 0,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 89814318,
@@ -3800,11 +3692,7 @@
     open_issues: 0,
     watchers: 0,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 92661036,
@@ -3930,11 +3818,7 @@
     open_issues: 1,
     watchers: 0,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   },
   {
     id: 93503545,
@@ -4038,7 +3922,7 @@
       "https://api.github.com/repos/HackYourFuture/React/deployments",
     created_at: "2017-06-06T09:58:23Z",
     updated_at: "2018-10-11T16:10:09Z",
-    pushed_at: "2018-10-12T14:38:27Z",
+    pushed_at: "2018-10-17T14:50:44Z",
     git_url: "git://github.com/HackYourFuture/React.git",
     ssh_url: "git@github.com:HackYourFuture/React.git",
     clone_url: "https://github.com/HackYourFuture/React.git",
@@ -4053,19 +3937,70 @@
     has_downloads: true,
     has_wiki: true,
     has_pages: false,
-    forks_count: 92,
+    forks_count: 99,
     mirror_url: null,
     archived: false,
-    open_issues_count: 43,
+    open_issues_count: 48,
     license: null,
-    forks: 92,
-    open_issues: 43,
+    forks: 99,
+    open_issues: 48,
     watchers: 17,
     default_branch: "master",
-    permissions: {
-      admin: false,
-      push: false,
-      pull: true
-    }
+    permissions: { admin: false, push: false, pull: true }
   }
 ];
+
+let div = document.getElementById("main");
+// listing all  the repo
+/*let list = document.createElement("UL");
+div.appendChild(list);
+for (let i = 0; i < x.length; i = i + 1) {
+  let li = document.createElement("li");
+  let repository = x[i];
+  li.textContent = repository.name;
+  list.appendChild(li);
+}*/
+// console.log(x.includes("HTML-CSS", "Project"));
+let newList = x.filter(function(repo) {
+  if (
+    repo.name == "Project" ||
+    repo.name == "HTML-CSS" ||
+    repo.name == "Node.js" ||
+    repo.name == "databases" ||
+    repo.name == "JavaScript1" ||
+    repo.name == "React"
+  ) {
+    return true;
+    // console.log(myList.name);
+  }
+});
+let list2 = document.createElement("UL");
+div.appendChild(list2);
+for (let i = 0; i < newList.length; i = i + 1) {
+  let li = document.createElement("li");
+  let newRepo = newList[i];
+  li.textContent = newRepo.name;
+  list2.appendChild(li);
+
+  console.log(newList);
+}
+let div2 = document.getElementById("second-repo");
+
+let list3 = document.createElement("ul");
+div2.appendChild(list3);
+for (let i = 0; i < newList.length; i = i + 1) {
+  let repo2 = newList[i];
+  let repoString =
+    repo2.stargazers_count +
+    " " +
+    repo2.watchers +
+    " " +
+    repo2.forks +
+    " " +
+    repo2.language;
+  let li = document.createElement("li");
+  li.textContent = repoString;
+  list3.appendChild(li);
+  console.log(newList);
+  console.log(repo2);
+}
